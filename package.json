@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "i": "^0.3.7",
     "next": "11.1.2",
+    "npm": "^8.0.0",
+    "raw-loader": "^4.0.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "react-pageflip": "^2.0.3"
   },
   "devDependencies": {
     "eslint": "7.32.0",

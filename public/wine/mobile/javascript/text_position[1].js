@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"Şarap Listesi Wine List",left:0.277697,top:0.050517,width:0.638247,height:0.037986},{word:"/",left:0.636550,top:0.060964,width:0.016500,height:0.024774}]};

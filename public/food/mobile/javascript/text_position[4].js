@@ -1,0 +1,1 @@
+﻿positionForPages[4]={page:4,positions:[{word:"Oğle ve Akşam Mönüsü",left:0.307684,top:0.044599,width:0.534634,height:0.035509},{word:"Lunch \& Evening Menu ",left:0.222759,top:0.081642,width:0.508953,height:0.035508},{word:"(12:00 – 22:00)",left:0.731733,top:0.094042,width:0.195533,height:0.019819}]};

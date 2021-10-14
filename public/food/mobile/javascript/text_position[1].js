@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"Kahvaltı Çeşitleri",left:0.399972,top:0.051984,width:0.430527,height:0.036335},{word:"Breakfast Selections",left:0.366910,top:0.089013,width:0.496754,height:0.036335}]};
